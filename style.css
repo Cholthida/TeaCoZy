@@ -17,7 +17,7 @@ header{
   border: 1px solid seashell;
   margin-left: 20px;
   margin-right: 20px;
-  z-index: 2;
+  z-index: 1;
   position: fixed;
 }
 
@@ -29,7 +29,7 @@ nav{
   align-items: center;
   background-color: black;
   margin: 0px;
-  z-index: 2;
+  z-index: 1;
   position: fixed;
 }
 header a{
@@ -48,7 +48,7 @@ header img {
 
 /*-----------------------------------------------------*/
 main{
-
+padding-top: 80px;
 }
 .flex-container{
   display: inline-flex;
