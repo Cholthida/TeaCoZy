@@ -3,7 +3,7 @@ html{
   width: 1200px;
   background-color: black;
   margin: 69px 69px 20px 20px;
-  font-family: Halvetica;
+  font-family: Helvetica;
   font-size: 22px;
   color: seashell;
   opacity: 0.9;
@@ -57,14 +57,14 @@ padding-top: 80px;
   margin-right: 20px;
   position: relative;
 }
-ul{
+#flex-container{
   display: block;
   margin-top: 270px;
   background-color: black;
   color: seashell;
   text-align:
 }
-ul h2 h4{
+#flex-container h2 h4{
   display: inline-block;
   align-items: center;
 }
@@ -156,7 +156,7 @@ footer .thick{
 footer h3{
   font-weight: lighter;
 }
-foot{
+#foot{
   height: 200px;
   text-align: center;
   margin-left: 20px;
